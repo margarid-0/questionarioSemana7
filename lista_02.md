@@ -344,9 +344,9 @@ ImprimirMatriz(matrizSoma)
 ```
 Função MultiplicarMatrizes(matrizA, matrizB):
     linhasA <- tamanho(matrizA)
-    colunasA <- tamanho(matrizA[0]) Número de colunas em matrizA
+    colunasA <- tamanho(matrizA[0])
     linhasB <- tamanho(matrizB)
-    colunasB <- tamanho(matrizB[0]) Número de colunas em matrizB
+    colunasB <- tamanho(matrizB[0])
 
     Verifica se o número de colunas da matrizA é igual ao número de linhas da matrizB
     Se colunasA ≠ linhasB então:
