@@ -353,7 +353,6 @@ Função MultiplicarMatrizes(matrizA, matrizB):
 
     matrizResultado <- novaMatriz(linhasA, colunasB)
 
-    Loop para calcular a multiplicação
     Para i de 0 até linhasA-1 faça:
         Para j de 0 até colunasB-1 faça:
             Inicializa o elemento da matriz resultante
