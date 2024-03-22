@@ -348,7 +348,6 @@ Função MultiplicarMatrizes(matrizA, matrizB):
     linhasB <- tamanho(matrizB)
     colunasB <- tamanho(matrizB[0])
 
-    Verifica se o número de colunas da matrizA é igual ao número de linhas da matrizB
     Se colunasA ≠ linhasB então:
         Retornar "As matrizes não podem ser multiplicadas. O número de colunas da primeira matriz deve ser igual ao número de linhas da segunda."
 
